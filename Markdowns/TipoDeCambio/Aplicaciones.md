@@ -1,4 +1,4 @@
-[Volver al Inicio](../../README.md)
+[Volver al Inicio](../../readme.md)
 ---
 # APLICACIONES
 
@@ -167,4 +167,4 @@ para esto se debe hablar con alguien que tenga permisos, o pedirle al encargado 
 
 ---
 
-[Volver al Inicio](../../README.md)
+[Volver al Inicio](../../readme.md)
