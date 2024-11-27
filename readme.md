@@ -46,6 +46,7 @@ Para más detalles sobre cada tipo de cambio, consulta los siguientes documentos
          <img src="./Imagenes/numero_requerimiento.png" alt="Ejemplo número de requerimiento" width="800px">
      </div>
    - Añade el número de requerimiento en el campo correspondiente antes de proceder `Folio de requerimiento`.
+   - **[Manual cuestionario DRI](./Documentos/CAMBIOS%20DE%20APLICACION%20SERVICES%20MANAGER.docx)**
 3. **[Base de Datos](./Markdowns/TipoDeCambio/BaseDeDatos.md)**
 
 ---
