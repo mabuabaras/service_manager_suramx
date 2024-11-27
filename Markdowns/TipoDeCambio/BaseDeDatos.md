@@ -1,4 +1,4 @@
-[Volver al Inicio](../../README.md)
+[Volver al Inicio](../../readme.md)
 ---
 # BASE DE DATOS
 
@@ -152,4 +152,4 @@ Luego de guardar se generaran las tareas donde debemos realizar pasos previos, p
 
 ---
 
-[Volver al Inicio](../../README.md)
+[Volver al Inicio](../../readme.md)
