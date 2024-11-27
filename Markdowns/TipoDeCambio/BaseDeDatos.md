@@ -6,7 +6,7 @@
 ## 1. Detalles del Cambio
 
 - **Ambiente**: Producción
-- **CI afectado** : `APLNEG100249` (Servidor RK) o `APLBD100307` (Servidor OB)
+- **CI afectado** : `SERVINTL101277` (Servidor RK) o `APLBD100307` (Servidor OB)
 - **Categoría**: BASE DE DATOS
 - **Tipificación**: Modificación de configuración
 - **Servicio Considerado**: Cambio en la Estructura de Base de Datos (ej. DDL, deltas, )
