@@ -1,4 +1,4 @@
-[Volver al Inicio](../../README.md)
+[Volver al Inicio](../../readme.md)
 ---
 # Telecomunicaciones y Firewall
 
@@ -125,4 +125,4 @@ Se debe ser paciente y esperar la aprobación por parte de las áreas encargas p
 **Nota**:En este momenta la tarea cambiará a fase de planeación para hacerse efectiva y corroborar que funcione correctamente, si no funciona se debe contactar a la persona asignada en la tarea para solucionar el inconveniente.
 ---
 
-[Volver al Inicio](../../README.md)
+[Volver al Inicio](../../readme.md)
